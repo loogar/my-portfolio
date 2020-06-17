@@ -68,7 +68,7 @@ export default class Contact extends Component {
   										</div>
   										<div class="form-group">
                         <input type="submit" class="btn btn-primary btn-send-message" value="Send Message"/>
-                          {status === "SUCCESS" && <p>I'll  get back to you as soon as possible.</p>}
+                          {status === "SUCCESS" && <p>Thank you,I'll get back to you as soon as possible.</p>}
                          {status === "ERROR" && <p>Ooops! something is wrong.</p>}
                   		</div>
   									</form>
