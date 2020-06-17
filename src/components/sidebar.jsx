@@ -34,7 +34,7 @@ export default class Sidebar extends Component {
             <div className="colorlib-footer">
               <p><small>
                   Made with <i className="icon-heart" aria-hidden="true" /> and React, Bootstrap and special thanks to gh-pages also <i className="icon-hope" aria-hidden="true"></i><br></br>
-                Thanks <a href='/'>Colorlib & Dhruv Barochia</a> for inspiration & hope.
+                Thanks Colorlib & Dhruv Barochia for inspiration & hope.
               </small></p>
             </div>
           </aside>
