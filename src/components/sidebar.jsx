@@ -9,7 +9,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.png)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Ragool Krishnan</a></h1>
-              <small><a target="_blank" rel="noopener noreferrer"> Front-End/Mobile Developer</a></small>
+              <small><a href='https://blog.logrocket.com/history-of-frontend-frameworks/' target="_blank" rel="noopener noreferrer"> Front-End/Mobile Developer</a></small>
             </div>
             <br/>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -34,7 +34,7 @@ export default class Sidebar extends Component {
             <div className="colorlib-footer">
               <p><small>
                   Made with <i className="icon-heart" aria-hidden="true" /> and React, Bootstrap and special thanks to gh-pages also <i className="icon-hope" aria-hidden="true"></i><br></br>
-                Thanks <a target="_blank" rel="noopener noreferrer">Colorlib & Dhruv Barochia</a> for inspiration & hope.
+                Thanks <a href='/'>Colorlib & Dhruv Barochia</a> for inspiration & hope.
               </small></p>
             </div>
           </aside>
