@@ -1,5 +1,4 @@
 # Portfolio
-My personal Portfolio
 
 My personal Responsive Portfolio site Built with react and bootstrap.
 
