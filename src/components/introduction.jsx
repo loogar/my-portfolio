@@ -42,7 +42,7 @@ export default class Introduction extends Component {
                               loop
                           />
                       </h3>
-                          <p><a className="btn btn-outline-danger btn-learn" href="https://drive.google.com/file/d/1TYC8kC4DKn-OfBdCf7JRqiGHXvhjlsnD/view?usp=sharing" target="_blank" rel="noopener noreferrer">View My Resume <i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-outline-danger btn-learn" href="https://drive.google.com/file/d/12_oJM1bVaycXwGqq0eAknyn_zAi0A6iV/view?usp=sharing" target="_blank" rel="noopener noreferrer">View My Resume <i className="icon-briefcase3" /></a></p>
                     </div>
                       </div>
                     </div>
