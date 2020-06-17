@@ -8,7 +8,7 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.png)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Ragool Krishnan</a></h1>
+              <h1 id="colorlib-logo">Ragool Krishnan</h1>
               <small><a href='https://blog.logrocket.com/history-of-frontend-frameworks/' target="_blank" rel="noopener noreferrer"> Front-End/Mobile Developer</a></small>
             </div>
             <br/>
