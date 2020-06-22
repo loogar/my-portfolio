@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Post-Graduation at <a target="_blank" rel="noopener noreferrer" href="https://www.isep.fr/">ISEP</a> <span>2017-2019</span></h2>
-                        <p>I did my Post-graduation studies with major in Software Engineering. It gave me an advanced insight on concepts like DSA, Modern Front-End frameworks and technologies, Back-end technologies and Modern Mobile development.</p>
+                        <p>I did my Post-graduation studies with a major in Software Engineering. It gave me an advanced insight on concepts like DSA, Modern Front-End frameworks and technologies, Back-end technologies and Modern Mobile development.</p>
                       </div>
                     </div>
                   </article>
@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Under-Graduation  at<a target="_blank" rel="noopener noreferrer" href="https://www.bharathuniv.ac.in/"> Bharath University </a> <span>2012-2016</span></h2>
-                        <p>I completed my Under-Graduation  education with major in Information Technology. During my time at the university, I have developed interest in web development with introduction to various other computer fundamentals.</p>
+                        <p>I completed my Under-Graduation  education with a major in Information Technology. During my time at the university, I have developed interest in web development with introduction to various other computer fundamentals.</p>
                       </div>
                     </div>
                   </article>

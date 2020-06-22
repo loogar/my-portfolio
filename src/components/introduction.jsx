@@ -35,7 +35,8 @@ export default class Introduction extends Component {
                           <Typed
                               strings={['Front-end developer',
                                 'Mobile Developer',
-                                'Writer'
+                                'Writer',
+                                'So it goes.'
                               ]}
                               typeSpeed={100}
                               backSpeed={100}
