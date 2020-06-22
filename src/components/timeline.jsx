@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at <a target="_blank" rel="noopener noreferrer" href="https://www.flaminem.com/en/"> Flaminem</a> <span>March(2019)-Sepetember(2019)</span></h2>
-                        <p>Flaminem is a software vendor for compliance managers in the financial sectors.I did a six months Internship at Flaminem while there i implemented new features to the website like optimizing, adding new roles to the graph with React, JSX, Typescript, Jest, Webpack.</p>
+                        <p>Flaminem is a software vendor for compliance managers in the financial sectors. I did a six months Internship at Flaminem while there i implemented new features to the website like optimizing, adding new roles to the graph with React, JSX, Typescript, Jest, Webpack.</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>PostGraduation at <a target="_blank" rel="noopener noreferrer" href="https://www.isep.fr/">ISEP</a> <span>2017-2019</span></h2>
-                        <p>I did my Post-graduation studies with major in Software Engineering. It gave me an advanced insight on concepts like DSA, Modern Front-End frameworks and technologies, Back-end technologies and Modern Mobile develoment.</p>
+                        <h2>Post-Graduation at <a target="_blank" rel="noopener noreferrer" href="https://www.isep.fr/">ISEP</a> <span>2017-2019</span></h2>
+                        <p>I did my Post-graduation studies with major in Software Engineering. It gave me an advanced insight on concepts like DSA, Modern Front-End frameworks and technologies, Back-end technologies and Modern Mobile development.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>UnderGrauation at<a target="_blank" rel="noopener noreferrer" href="https://www.bharathuniv.ac.in/"> BharathUniversity </a> <span>2012-2016</span></h2>
-                        <p>I completed my UnderGrauation education with major in Information Technology. During my time at the university, I have developed interest in web develoment with introduction to various other computer fundamentals.</p>
+                        <h2>Under-Graduation  at<a target="_blank" rel="noopener noreferrer" href="https://www.bharathuniv.ac.in/"> Bharath University </a> <span>2012-2016</span></h2>
+                        <p>I completed my Under-Graduation  education with major in Information Technology. During my time at the university, I have developed interest in web development with introduction to various other computer fundamentals.</p>
                       </div>
                     </div>
                   </article>

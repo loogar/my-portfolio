@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://loogar.github.io.",
   "dependencies": {
-    "emailjs-com": "^2.4.1",
     "gh-pages": "^2.2.0",
     "particles-bg": "^2.5.0",
     "react": "^16.8.3",
@@ -12,6 +11,7 @@
     "react-hot-loader": "^4.12.21",
     "react-scripts": "2.1.5",
     "react-typed": "^1.2.0",
+    "reactstrap": "^8.4.1",
     "travis": "^0.1.1",
     "yarn": "^1.22.4"
   },

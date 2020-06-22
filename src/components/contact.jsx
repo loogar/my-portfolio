@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import { UncontrolledAlert } from 'reactstrap';
+
 
 export default class Contact extends Component {
   constructor(props) {
@@ -9,7 +11,8 @@ export default class Contact extends Component {
     };
   }
   render() {
-    const { status } = this.state;
+	const { status } = this.state;
+
       return (
       <div>
         <section class="colorlib-contact" data-section="contact">
@@ -68,8 +71,10 @@ export default class Contact extends Component {
   										</div>
   										<div class="form-group">
                         <input type="submit" class="btn btn-primary btn-send-message" value="Send Message"/>
-                          {status === "SUCCESS" && <p>Thank you,I'll get back to you as soon as possible.</p>}
-                         {status === "ERROR" && <p>Ooops! something is wrong.</p>}
+                        { status === "SUCCESS" && <UncontrolledAlert color="success" fade = {false} onClick = {() => this.setState({status: ""}) }>
+						<strong>Thank you!!.</strong> I'll get back to you as soon as possible.</UncontrolledAlert> }
+                         { status === "ERROR" && <UncontrolledAlert color="danger" fade = {false} onClick = {() => this.setState({status: ""}) }>
+						<strong>OOPS!!.</strong> Something is wrong please check your Credentials or reload and try again.</UncontrolledAlert> }
                   		</div>
   									</form>
   								</div>
@@ -98,5 +103,5 @@ export default class Contact extends Component {
         }
       };
       xhr.send(data);
-    }
+	}
 }

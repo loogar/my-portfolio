@@ -7,7 +7,7 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/about.png)'}} />
+              <div className="author-img" style={{backgroundImage: 'url(images/about.gif)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Ragool Krishnan</a></h1>
               <small><a href='https://blog.logrocket.com/history-of-frontend-frameworks/' target="_blank" rel="noopener noreferrer"> Front-End/Mobile Developer</a></small>
             </div>
