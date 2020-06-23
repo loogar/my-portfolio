@@ -4,15 +4,15 @@ export default class About extends Component {
   render() {
     return (
       <div>
-        <section className="colorlib-about" data-section="about">
-        <div className="colorlib-narrow-content">
+        <section className="portfolio-about" data-section="about">
+        <div className="portfolio-narrow-content">
             <div className="row">
             <div className="col-md-12">
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
                     <span className="heading-meta">Well...</span>
-                    <h2 className="colorlib-heading">Who Am I?</h2>
+                    <h2 className="portfolio-heading">Who Am I?</h2>
                     <p>I am a Post grad from Institut supérieur d’électronique de Paris (ISEP) with Software Engineering as my major. I have a passion for science and technology and love learning about new languages and creative techniques for solving problems.</p>
                     <p>I bring a lot of positive energy to the table and  work well within a team. I also love reading books especially historical fiction and I also have a penchant for philosphy. </p>
                   </div>
@@ -22,12 +22,12 @@ export default class About extends Component {
             </div>
         </div>
         </section>
-        <section className="colorlib-about">
-        <div className="colorlib-narrow-content">
+        <section className="portfolio-about">
+        <div className="portfolio-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are my expertise</h2>
+                <h2 className="portfolio-heading">Here are my expertise</h2>
             </div>
             </div>
             <div className="row row-pt-md">

@@ -4,12 +4,12 @@ export default class Timeline extends Component {
   render() {
     return (
       <div>
-        <section className="colorlib-experience" data-section="timeline">
-          <div className="colorlib-narrow-content">
+        <section className="portfolio-experience" data-section="timeline">
+          <div className="portfolio-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">  Glimpse Into My Life </span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+                <h2 className="portfolio-heading animate-box">Timeline</h2>
               </div>
             </div>
             <div className="row">

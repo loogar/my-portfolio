@@ -7,7 +7,7 @@ export default class Introduction extends Component {
   render() {
     return (
       <div>
-        <section id="colorlib-hero" className="js-fullheight" data-section="home">
+        <section id="portfolio-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
               {/*<li style={{backgroundImage: 'linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images/img_bg1.png)'}}>*/}

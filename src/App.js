@@ -11,10 +11,10 @@ import Contact from './components/contact'
 class App extends Component {
   render() {
     return (
-      <div id="colorlib-page">
+      <div id="portfolio-page">
         <div id="container-wrap">
          	<Sidebar></Sidebar>
-				<div id="colorlib-main">
+				<div id="portfolio-main">
 					<Introduction></Introduction>
 					<About></About>
           <Timeline></Timeline>
