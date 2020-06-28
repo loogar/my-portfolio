@@ -23,6 +23,8 @@ class App extends Component {
          <Contact></Contact>
            <br></br>
            <br></br>
+           <br></br>
+
         </div>
       	</div>
       </div>

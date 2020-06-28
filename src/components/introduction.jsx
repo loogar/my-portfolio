@@ -62,6 +62,6 @@ export default class Introduction extends Component {
 let introStyles ={
       color: '#FCF6F5FF',
       fontFamily: "Quicksand",
-      fontWeight: '300',
-
+      fontWeight: '200',
+      width: 'auto',
   }
