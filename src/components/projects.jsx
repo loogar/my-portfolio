@@ -65,12 +65,12 @@ export default class Projects extends Component {
               </a>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-                <a href="https://github.com/loogar/BMI_Calculator" target="_blank" rel="noopener noreferrer">
-								<div className="project" style={{backgroundImage: 'url(images/project-5.JPG)'}}>
+                <a href="https://github.com/loogar/Flash_chat_flutter_app" target="_blank" rel="noopener noreferrer">
+								<div className="project" style={{backgroundImage: 'url(images/project-5.PNG)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://github.com/loogar/BMI_Calculator" target="_blank" rel="noopener noreferrer">BMI Calculator App</a></h3>
-											<span>A Bmi Calculator build with Flutter For Both IOS and Android.</span>
+											<h3><a href="https://github.com/loogar/Flash_chat_flutter_app" target="_blank" rel="noopener noreferrer">Flash Chat Flutter app</a></h3>
+											<span>Built a modern messaging app where users can sign up and log in to chat.</span>
 										</div>
 									</div>
 								</div>

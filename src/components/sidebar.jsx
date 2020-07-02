@@ -9,7 +9,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.gif)'}} />
               <h1 id="portfolio-logo"><a href="index.html">Ragool Krishnan</a></h1>
-              <small><a href='https://blog.logrocket.com/history-of-frontend-frameworks/' target="_blank" rel="noopener noreferrer"> Front-End/Mobile Developer</a></small>
+              <small><a href='index.html' target="_blank" rel="noopener noreferrer"> Front-End/Mobile Developer</a></small>
             </div>
             <br/>
             <nav id="portfolio-main-menu" role="navigation" className="navbar">
