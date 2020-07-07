@@ -43,7 +43,14 @@ export default class Introduction extends Component {
                               loop
                           />
                       </h3>
-                          <p><a className="btn btn-outline-danger btn-learn" href="https://drive.google.com/file/d/1LwYmvW9UGwUtGdcu0w7KWN4KfUoLFvwm/view?usp=sharing" target="_blank" rel="noopener noreferrer">View My Resume <i className="icon-briefcase3" /></a></p>
+                          <div class="dropdown">
+  <span className="btn btn-outline-danger btn-learn">View My Résumés <i className="icon-briefcase3" /></span>
+  <div class="dropdown-content">
+  <p><a href="https://drive.google.com/file/d/1bnPMt3tLSU15285l2WjJ54p2xCo2F2l3/view?usp=sharing" target="_blank" rel="noopener noreferrer">English </a></p>
+  <p><a href="https://drive.google.com/file/d/1-gfyaLDzsidVm3_Ha0WJzOZVYOK1WfC7/view?usp=sharing" target="_blank" rel="noopener noreferrer">Française</a></p>
+
+  </div>
+  </div>
                     </div>
                       </div>
                     </div>
@@ -62,6 +69,6 @@ export default class Introduction extends Component {
 let introStyles ={
       color: '#FCF6F5FF',
       fontFamily: "Quicksand",
-      fontWeight: '200',
+      fontWeight: '300',
       width: 'auto',
   }
