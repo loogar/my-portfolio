@@ -46,8 +46,8 @@ export default class Introduction extends Component {
                           <div class="dropdown">
   <span className="btn btn-outline-danger btn-learn">View My Résumés <i className="icon-briefcase3" /></span>
   <div class="dropdown-content">
-  <p><a href="https://drive.google.com/file/d/1bnPMt3tLSU15285l2WjJ54p2xCo2F2l3/view?usp=sharing" target="_blank" rel="noopener noreferrer">English </a></p>
-  <p><a href="https://drive.google.com/file/d/1-gfyaLDzsidVm3_Ha0WJzOZVYOK1WfC7/view?usp=sharing" target="_blank" rel="noopener noreferrer">Française</a></p>
+  <p><a href="https://drive.google.com/file/d/1UjD02xYhu2oS8C88dL0PUQ9AuCme_159/view?usp=sharing" target="_blank" rel="noopener noreferrer">English </a></p>
+  <p><a href="https://drive.google.com/file/d/1I7P_vrvWEGXWnh8nV51LVZEjWulvj8kk/view?usp=sharing" target="_blank" rel="noopener noreferrer">Française</a></p>
 
   </div>
   </div>
